@@ -253,6 +253,6 @@ int main()
     }
     Sleep(100);
     }
-    cout << "\n\n\n\n\t\t\t------Made By Canh -------    "<< "\n\n\t\t\tCopyright by Dong Ngo   \n\n\n "<<endl;
+    cout << "\n\n\n\n\t\t\t------Made By Canh Thang-------    "<< "\n\n\t\t\tCopyright by Canh Thang   \n\n\n "<<endl;
     system("pause") ;
 }
