@@ -237,7 +237,7 @@ int main()
                 cout << "\t\t. * .     . * .                       . * .     . * .                   \n";
                 cout <<  "\t\t*     .       *                     *       .       *                 \n";
                 cout << "\t\t*              *                     *              *                   \n";
-                cout << "\t\t*   To        *     YEU               *    CAU   *                    \n";
+                cout << "\t\t*   To        *     YEU               *    MAN   *                    \n";
                 cout << "\t\t  *        *                            *        *                     \n";
                 cout << "\t\t    *    *                                *    *                      \n";
                 cout << "\t\t       *                                     *                         \n";
@@ -253,6 +253,6 @@ int main()
     }
     Sleep(100);
     }
-    cout << "\n\n\n\n\t\t\t------Made By Dong Ngo-------    "<< "\n\n\t\t\tCopyright by Dong Ngo   \n\n\n "<<endl;
+    cout << "\n\n\n\n\t\t\t------Made By Canh Thang------    "<< "\n\n\t\t\tCopyright by Dong Ngo   \n\n\n "<<endl;
     system("pause") ;
 }
